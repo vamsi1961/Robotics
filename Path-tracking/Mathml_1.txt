@@ -1,0 +1,345 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+      
+    <mtable>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+
+    </mtable>
+  </mrow>
+</math>
+
+
+
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mn>180</mn>
+  <mrow data-mjx-texclass="ORD">
+    <mo data-mjx-pseudoscript="true">&#xB0;</mo>
+  </mrow>
+  <mo>=</mo>
+  <msub>
+    <mi>&#x3B3;</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>+</mo>
+  <msub>
+    <mi>&#x3B3;</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>+</mo>
+  <msub>
+    <mi>&#x3B3;</mi>
+    <mn>3</mn>
+  </msub>
+  <mo>=</mo>
+  <msub>
+    <mi>&#x3B3;</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>+</mo>
+  <mo stretchy="false">(</mo>
+  <mn>90</mn>
+  <mrow data-mjx-texclass="ORD">
+    <mo data-mjx-pseudoscript="true">&#xB0;</mo>
+  </mrow>
+  <mo>&#x2212;</mo>
+  <mi>&#x3B1;</mi>
+  <mo stretchy="false">)</mo>
+  <mo>+</mo>
+  <mo stretchy="false">(</mo>
+  <mn>90</mn>
+  <mrow data-mjx-texclass="ORD">
+    <mo data-mjx-pseudoscript="true">&#xB0;</mo>
+  </mrow>
+  <mo>&#x2212;</mo>
+  <mi>&#x3B1;</mi>
+  <mo stretchy="false">)</mo>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+      
+    <mtable>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+        
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+        
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr><mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      </mtable>
+  </mrow>
+  <msub>
+    <mi>&#x3B3;</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>=</mo>
+  <mn>2</mn>
+  <mi>&#x3B1;</mi>
+  
+  
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+      
+    <mtable>
+      <mtr>
+        <mtd><mo>According to law of sines</mo></mtd>
+      </mtr>
+
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+
+    </mtable>
+  </mrow>
+</math>
+
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mfrac>
+     
+    <msub>
+        
+      <mi>l</mi>
+      <mi>d</mi>
+    </msub>
+    <mrow>
+      <mi>sin</mi>
+      <mo data-mjx-texclass="NONE">&#x2061;</mo>
+      <mo stretchy="false">(</mo>
+      <msub>
+        <mi>&#x3B3;</mi>
+        <mn>1</mn>
+      </msub>
+      <mo stretchy="false">)</mo>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mi>R</mi>
+    <mrow>
+      <mi>sin</mi>
+      <mo data-mjx-texclass="NONE">&#x2061;</mo>
+      <mo stretchy="false">(</mo>
+      <msub>
+        <mi>&#x3B3;</mi>
+        <mn>2</mn>
+      </msub>
+      <mo stretchy="false">)</mo>
+    </mrow>
+  </mfrac>
+</math>
+
+
+
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+      
+    <mtable>
+
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      
+    </mtable>
+  </mrow>
+</math>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mfrac>
+    <msub>
+      <mi>l</mi>
+      <mi>d</mi>
+    </msub>
+    <mrow>
+      <mi>sin</mi>
+      <mo data-mjx-texclass="NONE">&#x2061;</mo>
+      <mo stretchy="false">(</mo>
+      <mn>2</mn>
+      <mi>&#x3B1;</mi>
+      <mo stretchy="false">)</mo>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mi>R</mi>
+    <mrow>
+      <mi>sin</mi>
+      <mo data-mjx-texclass="NONE">&#x2061;</mo>
+      <mo stretchy="false">(</mo>
+      <mn>90</mn>
+      <mrow data-mjx-texclass="ORD">
+        <mo data-mjx-pseudoscript="true">&#xB0;</mo>
+      </mrow>
+      <mo>&#x2212;</mo>
+      <mi>&#x3B1;</mi>
+      <mo stretchy="false">)</mo>
+    </mrow>
+  </mfrac>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+      
+    <mtable>
+
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mo></mo></mtd>
+      </mtr>
+      
+    </mtable>
+  </mrow>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <mtable>
+      <mtr>
+        <mtd><mo>κ is the curvature of the circular arc</mo></mtd>
+      </mtr>
+      <mtr><mtd><mo></mo></mtd></mtr>
+      <mtr><mtd><mo></mo></mtd></mtr>
+    </mtable>
+  </mrow>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mfrac>
+    <mrow>
+      <mi>κ</mi>
+    </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <msub>
+      <mrow>
+          <mn>2</mn>
+      <mi>sin</mi>
+      <mo data-mjx-texclass="NONE">&#x2061;</mo>
+      <mo stretchy="false">(</mo>
+      
+      <mi>&#x3B1;</mi>
+      <mo stretchy="false">)</mo>
+    </mrow>
+    </msub>
+    <mrow>
+        <mi>l</mi>
+       <mi>d</mi>
+    </mrow>
+  </mfrac>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+ <mtable>
+      <mtr><mtd><mo></mo></mtd></mtr>
+      <mtr><mtd><mo></mo></mtd></mtr>
+      <mtr><mtd><mo></mo></mtd></mtr>
+  </mtable>
+  </mrow>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>&#x3B4;</mi>
+  <mo>=</mo>
+  <mi>arctan</mi>
+  <mo data-mjx-texclass="NONE">&#x2061;</mo>
+  <mo stretchy="false">(</mo>
+  <mi>L</mi>
+  <mrow data-mjx-texclass="ORD">
+    <mo>/</mo>
+  </mrow>
+  <mi>R</mi>
+  <mo stretchy="false">)</mo>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+ <mtable>
+      <mtr><mtd><mo></mo></mtd></mtr>
+      <mtr><mtd><mo></mo></mtd></mtr>
+      <mtr><mtd><mo></mo></mtd></mtr>
+  </mtable>
+  </mrow>
+</math>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>&#x3B4;</mi>
+  <mo>=</mo>
+  <mi>arctan</mi>
+  <mo data-mjx-texclass="NONE">&#x2061;</mo>
+  <mrow data-mjx-texclass="INNER">
+    <mo data-mjx-texclass="OPEN">(</mo>
+    <mfrac>
+      <mrow>
+        <mn>2</mn>
+        <mi>L</mi>
+        <mi>sin</mi>
+        <mo data-mjx-texclass="NONE">&#x2061;</mo>
+        <mo stretchy="false">(</mo>
+        <mi>&#x3B1;</mi>
+        <mo stretchy="false">)</mo>
+      </mrow>
+      <msub>
+        <mi>l</mi>
+        <mi>d</mi>
+      </msub>
+    </mfrac>
+    <mo data-mjx-texclass="CLOSE">)</mo>
+  </mrow>
+</math>
+
+
+///////////////
+
+
+
+
+
+
+
+
